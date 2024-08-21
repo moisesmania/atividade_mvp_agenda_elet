@@ -29,27 +29,28 @@ Os testes de integração verificam se diferentes módulos ou serviços do siste
 
 ## Interfaces Gráficas dos Usuários
 ### Tela de Login
-!Tela de Login
+Tela de Login
 Descrição: Interface para entrada de nome de usuário e senha.
-images/(../pagina_login.png)
+![alt text](pagina_login.png)
 ### Tela de Cadastro
-!Tela de Cadastro
+Tela de Cadastro
 Descrição: Interface para criação de nova conta.
-images/(../criar_conta.png)
+image
+![alt text](criar_conta.png)
 
 ### Tela de Agendamento
-!Tela de Agendamento
+Tela de Agendamento
 Descrição: Interface para adicionar e gerenciar compromissos.
-images/(../visualizar_eventos.png)
+![alt text](visualizar_eventos.png)
 ### Tela de Recuperação de Senha
-!Tela de Recuperação de Senha
+Tela de Recuperação de Senha
 Descrição: Interface para redefinir a senha.
-images/(../refazer_senha.png)
+![alt text](refazer_senha.png)
 ### Tela Inicial
-!Tela Inicial
-Descrição: Interface principal com navegação para outras funcionalidades.
-images/(../adicionar_hora.png)
-images/(../data_evento.png)
+Tela Inicial
+Descrição: Interface principal com navegação para outras funcionalidades como  hora data e outros entos.
+![images](adicionar_hora.png)
+![images](data_evento.png)
 ## Tutorial de Uso
 1. **Criação de Conta**: Acesse a tela de cadastro, insira seu nome de usuário e senha e clique em "Criar Conta".
 2. **Login**: Acesse a tela de login, insira seu nome de usuário e senha e clique em "Entrar".
