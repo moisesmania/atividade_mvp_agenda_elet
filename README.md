@@ -18,14 +18,11 @@ O Sistema de Agenda Eletrônica permite que os usuários agendem, editem e geren
 
 ## Tipos de Testes
 
-### 1. Testes Unitários
-Os testes unitários verificam se as menores partes do sistema (unidades) funcionam corretamente de forma isolada. Eles são essenciais para garantir que cada função ou método individual esteja operando conforme o esperado.
-
-### 2. Testes de Interface
-Os testes de interface (ou testes de UI) verificam se a interface do usuário está funcionando corretamente. Eles garantem que os elementos visuais, como botões e formulários, estejam interagindo corretamente com o usuário.
-
-### 3. Testes de Integração
-Os testes de integração verificam se diferentes módulos ou serviços do sistema funcionam bem juntos. Eles garantem que a interação entre diferentes partes do sistema ocorra conforme o esperado, como a comunicação entre o frontend e o backend.
+###1.Testes funcionais: Verificar se todas as funcionalidades do aplicativo estão funcionando corretamente, como criação, edição, exclusão e organização de notas.
+###2.Testes de usabilidade: Avaliar a facilidade de uso e a intuitividade da interface do aplicativo, garantindo que o usuário tenha uma experiência agradável e eficiente.
+###3.Testes de desempenho: Analisar o desempenho do aplicativo em diferentes cenários, como grande volume de notas, uso em dispositivos com diferentes configurações de hardware, etc.
+###4.Testes de segurança: Garantir a proteção dos dados do usuário, implementando medidas de segurança como criptografia, autenticação e controle de acesso.
+###5.Testes de compatibilidade: Verificar se o aplicativo funciona corretamente em diferentes sistemas operacionais, versões de software e dispositivos.
 
 ## Interfaces Gráficas dos Usuários
 ### Tela de Login
