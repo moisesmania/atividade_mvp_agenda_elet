@@ -16,27 +16,40 @@ O Sistema de Agenda Eletrônica permite que os usuários agendem, editem e geren
 - **Linguagem de Programação**: Python
 - **Banco de Dados**: SQLite3
 
+## Tipos de Testes
+
+### 1. Testes Unitários
+Os testes unitários verificam se as menores partes do sistema (unidades) funcionam corretamente de forma isolada. Eles são essenciais para garantir que cada função ou método individual esteja operando conforme o esperado.
+
+### 2. Testes de Interface
+Os testes de interface (ou testes de UI) verificam se a interface do usuário está funcionando corretamente. Eles garantem que os elementos visuais, como botões e formulários, estejam interagindo corretamente com o usuário.
+
+### 3. Testes de Integração
+Os testes de integração verificam se diferentes módulos ou serviços do sistema funcionam bem juntos. Eles garantem que a interação entre diferentes partes do sistema ocorra conforme o esperado, como a comunicação entre o frontend e o backend.
+
 ## Interfaces Gráficas dos Usuários
 ### Tela de Login
 !Tela de Login
 Descrição: Interface para entrada de nome de usuário e senha.
-
+images/(../pagina_login.png)
 ### Tela de Cadastro
 !Tela de Cadastro
 Descrição: Interface para criação de nova conta.
+images/(../criar_conta.png)
 
 ### Tela de Agendamento
 !Tela de Agendamento
 Descrição: Interface para adicionar e gerenciar compromissos.
-
+images/(../visualizar_eventos.png)
 ### Tela de Recuperação de Senha
 !Tela de Recuperação de Senha
 Descrição: Interface para redefinir a senha.
-
+images/(../refazer_senha.png)
 ### Tela Inicial
 !Tela Inicial
 Descrição: Interface principal com navegação para outras funcionalidades.
-
+images/(../adicionar_hora.png)
+images/(../data_evento.png)
 ## Tutorial de Uso
 1. **Criação de Conta**: Acesse a tela de cadastro, insira seu nome de usuário e senha e clique em "Criar Conta".
 2. **Login**: Acesse a tela de login, insira seu nome de usuário e senha e clique em "Entrar".
@@ -49,5 +62,4 @@ Descrição: Interface principal com navegação para outras funcionalidades.
 ## Importância e Relevância
 A agenda eletrônica é uma ferramenta essencial para a organização pessoal e profissional. Ela ajuda a evitar esquecimentos e conflitos de horários, aumentando a produtividade e eficiência. Com a possibilidade de acesso online, os usuários podem gerenciar seus compromissos de qualquer lugar, a qualquer momento.
 
----
 
